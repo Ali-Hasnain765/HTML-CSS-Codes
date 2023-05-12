@@ -1,0 +1,45 @@
+
+#p1{
+  width: 100px;
+  height: 100px;
+  background: #FC4F00;
+  font-size: 85px;
+  text-align: center;
+
+  /* animation: amazon ;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;  */
+
+  /* animation: rotate ;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;   */
+
+  /* animation: translate ;
+  animation-duration: 5s; */
+  animation: scale ;
+  animation-duration: 5s;
+}
+
+/*You can also use pseudo classes for smart animation! */
+
+/*The @keyframes rule specifies the animation code. */
+@keyframes amazon {
+  0% {background-color:#FC4F00 }
+   25%{background-color:#FFD3B0}
+   75%{background-color:#FF6969}
+   100%{background-color:#F45050}
+
+}
+@keyframes rotate {
+   100%{transform: rotate(360deg);}
+
+}
+@keyframes translate {
+   50%{transform: translate(100px,100px);}
+
+}
+@keyframes scale {
+   50%{transform: scale(1.5,1.5);}
+
+}
+

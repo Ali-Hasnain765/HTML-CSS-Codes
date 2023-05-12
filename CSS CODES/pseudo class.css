@@ -1,0 +1,35 @@
+/*pseudo-classes are special selectors that target elements based on their state or position in the document in order to apply specific styles to them.*/
+
+/* For some reason not working in my browser,but it's Correct*/
+a:link{
+	color:#78ffd0 ;
+}
+a:visited{
+	color:#03D6D2
+}
+/* For some reason not working in my browser,but it's Correct*/
+button: hover{
+	background-color:red ;
+	color: #FFD880;
+}
+/* For some reason not working in my browser,but it's Correct*/
+button: active{
+	background-color:#290149 ;
+
+}
+
+li:first-child{
+	background-color:#03D6D2 ;
+	opacity: 0.7;
+}
+li:last-child{
+	background-color:#FFAF4F ;
+	border: 2px solid ;
+}
+li:nth-child(3){
+	background: linear-gradient( #ECFFC9,#9AB3F5,#062D92);:
+} 
+
+li:nth-child(even){
+	background-color:#FF7000 ;
+} 

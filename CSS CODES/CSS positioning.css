@@ -1,0 +1,22 @@
+/*  alignment */
+p{
+	border: 1px solid;
+	width: 250px;
+}
+
+#p1{
+
+	text-align: left;
+}
+#p2{
+	text-align: center;
+}
+#p3{
+	text-align: right;
+}
+/*  float */
+/*
+float: left;
+margin:5px: */
+
+/*  Position */

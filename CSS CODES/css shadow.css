@@ -1,0 +1,23 @@
+h1{
+
+border: 2px solid;
+width: 200px;
+padding: 25px;
+
+text-shadow: 0px 2px 5px #FFD880 ,0px 4px 5px #6B011F;
+/*
+horizontal (px)
+vertical (px)
+blur (px)
+color (name,rgb,hex)
+*/
+
+box-shadow: 10px 10px 5px #7BCACE;
+/*
+horizontal (px)
+vertical (px)
+blur (px)
+color (name,rgb,hex)
+*/
+
+}

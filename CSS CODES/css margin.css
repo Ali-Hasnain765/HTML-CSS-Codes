@@ -1,0 +1,41 @@
+html{
+	margin-top: -20px;
+	margin-left: -10px;
+}
+h1{
+
+border: 2px solid;
+width: 50%;
+padding: 15px;
+}
+p {
+  
+padding: 20px;
+border: 1px solid;
+width: 1500px;
+
+}
+#p1{ 
+margin: 20px;
+ }
+
+#p2{ 
+margin-top: 25px;
+margin-right: 75px;
+margin-bottom: 25px;
+margin-left: 75px;
+/*Same THING*/
+margin: 25px,75px,25px,75px;
+
+ }
+ #p3{ 
+
+margin: 45%;
+ }
+ #p4{ 
+margin-right: auto;
+ }
+ #p5{ 
+margin: auto;
+ }
+ 

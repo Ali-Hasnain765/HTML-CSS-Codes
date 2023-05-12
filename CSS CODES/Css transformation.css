@@ -1,0 +1,26 @@
+p{
+
+	width: 100px;
+	background:#A4D0A4 ;
+	font-size: 88px;
+	text-align:center: ;
+	margin: 0px;
+}
+#p1{
+
+}
+#p2{
+	transform: translate(15px,20px); /* for X axis and Y axis */
+	transform: rotate(180deg);
+	transform: scale(1.0,1.5);
+	transform: skew(10deg);
+	/* combined of the above */
+	transform: matrix(1, 1, 1, 0, 50, 50);
+	/* scaleX()
+	   skewY()
+	   skewX()
+	   scaleY
+	   translateX()
+	   translateY()
+	    */
+}

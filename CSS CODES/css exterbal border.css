@@ -1,0 +1,32 @@
+ body{
+ 	background-color:#454545 ;
+ }
+h1{
+	background-color:#E86A33 ;
+	color:#263A29 ;
+	border-color:#009FBD ;
+	border-top-style: dotted;
+	border-top-width: 10px;
+	border-bottom-style: dotted;
+	border-bottom-width: 10px;
+	border-left: double;
+	border-left-width: 7px;
+	border-right-width: 7px;
+	border-right: groove;
+}
+
+
+p{
+	background-color:#FFABAB ;
+	color:#263A29 ;
+    padding: 5px;
+	border-style: solid;
+	border-style: dashed;
+	border-style: dotted;
+	border-style: double;
+	border-style: outset;
+	border-width:5px ;
+	border-color:#41644A ;
+    border-radius: 12px;
+
+}

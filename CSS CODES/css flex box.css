@@ -1,0 +1,22 @@
+.container{
+display: flex;
+flex-wrap: wrap;
+background-color:#212A3E ;
+
+/*flex-direction: column-reverse;
+width: 110px; */
+justify-content: flex-start  ;
+justify-content: center ;
+justify-content: space-around;
+}
+
+.container div{
+color:#FFF8D6 ;
+background-color:#A5C0DD ;
+text-align: center;
+font-size: 50px;
+height: 100px;
+width:100px;
+line-height: 100px;
+margin: 5px;
+}

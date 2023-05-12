@@ -1,0 +1,29 @@
+html{
+	background-image: url(https://img.freepik.com/free-vector/wavy-background-with-copy-space_52683-65230.jpg?size=626&ext=jpg&ga=GA1.2.138257587.1682016940&semt=robertav1_2_sidr) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+
+/* background: linear-gradient(#00d4ff,#090979,#020024);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed; */
+
+}
+h1{
+background: linear-gradient(#00FFC6,#30AADD,#247881);
+}
+p {
+  
+
+/* For text gradient
+  background: -webkit-linear-gradient(top, #A6F2DB, #4F4E79);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+#gra{
+	background: linear-gradient(#F06161,#BB4272,#7A3476);
+  font-size: 20px;
+}
